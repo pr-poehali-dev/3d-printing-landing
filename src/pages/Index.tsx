@@ -9,10 +9,10 @@ const PORTFOLIO_IMAGES = [
     category: "Механика",
   },
   {
-    url: "https://cdn.poehali.dev/projects/4d9b8734-444f-441d-97c9-130d56443c0d/files/287fa8c7-51a7-46cf-a3a2-875f5fd0050f.jpg",
-    title: "Архитектурный макет",
-    material: "PLA+",
-    category: "Архитектура",
+    url: "https://cdn.poehali.dev/projects/4d9b8734-444f-441d-97c9-130d56443c0d/files/6fe7653d-965d-4bd2-afe7-11c1da66eff3.jpg",
+    title: "Индивидуальные награды",
+    material: "PLA+ / Resin",
+    category: "Трофеи",
   },
   {
     url: "https://cdn.poehali.dev/projects/4d9b8734-444f-441d-97c9-130d56443c0d/files/379a8d96-17df-419b-ac83-d26da7117f5a.jpg",
